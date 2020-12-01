@@ -58,14 +58,24 @@ career-profile:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-publications: Publications
-    title:
+publications:
+    title: Publications
     intro:
     papers:
       - title: Approach to Improve the Performance Using Bit-level Sparsity in Neural Networks
         link: "#"
         authors: Yesung Kang, Eunji Kwon, Seunggyu Lee, Younghoon Byun, Youngjoo Lee, and Seokhyeong Kang
         conference: DATE, 2021
+        
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
 
 
 footer: >
