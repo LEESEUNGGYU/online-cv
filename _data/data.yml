@@ -58,7 +58,9 @@ career-profile:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-publications:
+publications: 
+    title:
+    intro:
     papers:
       - title: asdfadf
         link: "#"
