@@ -62,7 +62,7 @@ publications:
     title:
     intro:
     papers:
-      - title: asdfadf
+      - title: Approach to Improve the PerformanceUsing Bit-level Sparsity in Neural Networks
         link: "#"
         authors: Yesung Kang, Eunji Kwon, Seunggyu Lee, Younghoon Byun, Youngjoo Lee, and Seokhyeong Kang
         conference: DATE, 2021
