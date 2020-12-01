@@ -35,7 +35,7 @@ career-profile:
     title: Career Profile
     summary: |
       Seunggyu Lee is currently a Master student in the Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH), Korea. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab.
-education:
+    education:
     - degree: MS in Electrical Engineering
       university: Pohang University of Science and Technology
       time: Sep.2020 - Present
@@ -59,7 +59,7 @@ education:
           - Bullet point
           - Bullet point
 
-# experiences:
+experiences:
 #     - role: Lead Developer
 #       time: 2015 - Present
 #       company: Startup Hubs, San Francisco
@@ -97,7 +97,7 @@ education:
 #         pellentesque eu, pretium quis, sem.
 #           - Bullet point
 #           - Bullet point
-# projects:
+projects:
 #     title: Projects
 #     intro: >
 #       You can list your side projects or open source libraries in this
@@ -131,7 +131,7 @@ publications:
         authors: Yesung Kang, Eunji Kwon, Seunggyu Lee, Younghoon Byun, Youngjoo Lee, and Seokhyeong Kang
         conference: DATE, 2021
 
-# skills:
+skills:
 #     title: Skills &amp; Proficiency
 
 #     toolset:
